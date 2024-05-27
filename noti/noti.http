@@ -1,0 +1,6 @@
+@noti_HostAddress = http://localhost:5030
+
+GET {{noti_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
